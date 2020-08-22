@@ -4,6 +4,7 @@
 ## Purpose of Application
 *It is the ticket sales application of the flight company to its customers. It receives flight information from customers and checks the database to show them if there is a flight on the day they want. Then it asks for customer information and sells tickets to them. Finally, it shows customers a PNR code so customers can check in.*
 
+
 ## Sample Screenshots
 ![sale-ticket-1](https://github.com/eroldmrclk/flight-app-sale-ticket/blob/master/images/sale-ticket-1.png)
 ![sale-ticket-2](https://github.com/eroldmrclk/flight-app-sale-ticket/blob/master/images/sale-ticket-2.png)
